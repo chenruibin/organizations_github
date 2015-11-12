@@ -13,3 +13,5 @@
 - [aliceui](https://github.com/aliceui)
 - [kissyteam](https://github.com/kissyteam)
 - [taobao](https://github.com/taobao)
+- [node-modules](https://github.com/node-modules)
+- [node-webot](https://github.com/node-webot)
