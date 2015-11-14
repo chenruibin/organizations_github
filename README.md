@@ -22,3 +22,8 @@
 - [FortAwesome](https://github.com/FortAwesome)
 - [errorbucket](https://github.com/errorbucket)
 - [TinyPress](https://github.com/tinypressco)
+- [cnodejs](https://github.com/cnodejs)
+- [react-component](https://github.com/react-component)
+- [reactjs-cn](https://github.com/reactjs-cn)
+- [nodejs](https://github.com/nodejs)
+- [moajs](https://github.com/moajs)
