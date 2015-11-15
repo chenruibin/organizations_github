@@ -27,3 +27,5 @@
 - [reactjs-cn](https://github.com/reactjs-cn)
 - [nodejs](https://github.com/nodejs)
 - [moajs](https://github.com/moajs)
+- [pixijs](https://github.com/pixijs)
+- [node-weixin](https://github.com/node-weixin)
