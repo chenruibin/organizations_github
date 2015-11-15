@@ -29,3 +29,4 @@
 - [moajs](https://github.com/moajs)
 - [pixijs](https://github.com/pixijs)
 - [node-weixin](https://github.com/node-weixin)
+- [DNSPod](https://github.com/DNSPod)
