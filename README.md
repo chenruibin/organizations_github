@@ -30,3 +30,6 @@
 - [pixijs](https://github.com/pixijs)
 - [node-weixin](https://github.com/node-weixin)
 - [DNSPod](https://github.com/DNSPod)
+- [Alibaba-国际UED-SUI](https://github.com/sdc-alibaba)
+- [AngularUI](https://github.com/angular-ui)
+- [ant-design](https://github.com/ant-design)
