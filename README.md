@@ -33,3 +33,6 @@
 - [Alibaba-国际UED-SUI](https://github.com/sdc-alibaba)
 - [AngularUI](https://github.com/angular-ui)
 - [ant-design](https://github.com/ant-design)
+- [Continuous Delivery for iOS Apps](https://github.com/fastlane)
+- [Smartphone Test Farm](https://github.com/openstf)
+- [React Toolbox](https://github.com/react-toolbox)
