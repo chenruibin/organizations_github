@@ -37,4 +37,5 @@
 - [Smartphone Test Farm](https://github.com/openstf)
 - [React Toolbox](https://github.com/react-toolbox)
 - [amfe](https://github.com/amfe)
-- 
+- [plotly](https://github.com/plotly)
+- [GoogleChrome](https://github.com/GoogleChrome)
