@@ -39,3 +39,5 @@
 - [amfe](https://github.com/amfe)
 - [plotly](https://github.com/plotly)
 - [GoogleChrome](https://github.com/GoogleChrome)
+- [Artisan Stack Learning](https://github.com/artisanstack)
+- [coreos](https://github.com/coreos)
