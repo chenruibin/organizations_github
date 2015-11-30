@@ -51,3 +51,6 @@
 - [weflex](https://github.com/weflex)
 - [strongloop](https://github.com/strongloop)
 - [senchalabs](https://github.com/senchalabs)
+- [expressjs](https://github.com/expressjs)
+- [meanjs](https://github.com/meanjs)
+- [bower](https://github.com/bower)
