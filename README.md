@@ -54,3 +54,7 @@
 - [expressjs](https://github.com/expressjs)
 - [meanjs](https://github.com/meanjs)
 - [bower](https://github.com/bower)
+- [伯乐在线](https://github.com/jobbole)
+- [vueui](https://github.com/vueui)
+- [vuejs](https://github.com/vuejs)
+- [rackt](https://github.com/rackt)
