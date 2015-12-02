@@ -58,3 +58,5 @@
 - [vueui](https://github.com/vueui)
 - [vuejs](https://github.com/vuejs)
 - [rackt](https://github.com/rackt)
+- [mwn-notes](https://github.com/mwn-notes)
+- [Front-End-Developers-Hunan](https://github.com/Front-End-Developers-Hunan)
