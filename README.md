@@ -61,3 +61,6 @@
 - [mwn-notes](https://github.com/mwn-notes)
 - [Front-End-Developers-Hunan](https://github.com/Front-End-Developers-Hunan)
 - [FormidableLabs](https://github.com/FormidableLabs)
+- [react-bootstrap](https://github.com/react-bootstrap)
+- [AFNetworking](https://github.com/AFNetworking)
+- [json-api](https://github.com/json-api)
