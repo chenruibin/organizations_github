@@ -68,3 +68,5 @@
 - [twitter](https://github.com/twitter)
 - [localtunnel](https://github.com/localtunnel)
 - [koa-modules](https://github.com/koa-modules)
+- [huiyan fe team](https://github.com/huiyan-fe)
+- [蘑菇街](https://github.com/mogujie)
