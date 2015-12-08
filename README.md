@@ -70,3 +70,4 @@
 - [koa-modules](https://github.com/koa-modules)
 - [huiyan fe team](https://github.com/huiyan-fe)
 - [蘑菇街](https://github.com/mogujie)
+- [lodash](https://github.com/lodash)
