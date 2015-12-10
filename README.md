@@ -71,3 +71,5 @@
 - [huiyan fe team](https://github.com/huiyan-fe)
 - [蘑菇街](https://github.com/mogujie)
 - [lodash](https://github.com/lodash)
+- [nokitjs](https://github.com/nokitjs)
+- [https://github.com/futurice](https://github.com/futurice)
