@@ -73,3 +73,4 @@
 - [lodash](https://github.com/lodash)
 - [nokitjs](https://github.com/nokitjs)
 - [https://github.com/futurice](https://github.com/futurice)
+- [interagent](https://github.com/interagent)
