@@ -74,3 +74,4 @@
 - [nokitjs](https://github.com/nokitjs)
 - [https://github.com/futurice](https://github.com/futurice)
 - [interagent](https://github.com/interagent)
+- [Adobe Systems Incorporated](https://github.com/adobe)
