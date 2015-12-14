@@ -76,3 +76,4 @@
 - [interagent](https://github.com/interagent)
 - [Adobe Systems Incorporated](https://github.com/adobe)
 - [testerhome](https://github.com/testerhome)
+- [AngularClass](https://github.com/AngularClass)
