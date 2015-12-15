@@ -81,3 +81,4 @@
 - [JetBrains](https://github.com/JetBrains)
 - [facebookarchive](https://github.com/facebookarchive)
 - [腾讯 AlloyTeam](https://github.com/AlloyTeam/)
+- [环信即时通讯云](https://github.com/easemob)
