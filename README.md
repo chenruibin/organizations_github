@@ -79,3 +79,5 @@
 - [AngularClass](https://github.com/AngularClass)
 - [Qihoo360](https://github.com/Qihoo360)
 - [JetBrains](https://github.com/JetBrains)
+- [facebookarchive](https://github.com/facebookarchive)
+- [腾讯 AlloyTeam](https://github.com/AlloyTeam/)
