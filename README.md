@@ -77,3 +77,4 @@
 - [Adobe Systems Incorporated](https://github.com/adobe)
 - [testerhome](https://github.com/testerhome)
 - [AngularClass](https://github.com/AngularClass)
+- [Qihoo360](https://github.com/Qihoo360)
