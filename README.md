@@ -82,3 +82,5 @@
 - [facebookarchive](https://github.com/facebookarchive)
 - [腾讯 AlloyTeam](https://github.com/AlloyTeam/)
 - [环信即时通讯云](https://github.com/easemob)
+- [Trek.js Next generation web framework for Node.js](https://github.com/trekjs)
+- [Atom Minimap](https://github.com/atom-minimap)
