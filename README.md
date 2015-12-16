@@ -86,3 +86,5 @@
 - [Atom Minimap](https://github.com/atom-minimap)
 - [emberjs](https://github.com/emberjs)
 - [ant-design](https://github.com/ant-design)
+- [riot](https://github.com/riot)
+- [raml2html](https://github.com/raml2html)
