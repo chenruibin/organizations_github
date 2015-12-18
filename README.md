@@ -93,3 +93,4 @@
 - [airbnb](https://github.com/airbnb)
 - [Futurice](https://github.com/futurice)
 - [开放静态文件 CDN](https://github.com/staticfile)
+- [Wifi.io](https://github.com/wifi-io)
