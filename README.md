@@ -97,3 +97,5 @@
 - [Parse](https://github.com/ParsePlatform)
 - [Amazon Web Services - Labs](https://github.com/awslabs)
 - [The Apache Software Foundation](https://github.com/apache)
+- [Automattic](https://github.com/Automattic)
+- [Bootstrap](https://github.com/twbs)
