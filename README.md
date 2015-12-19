@@ -100,3 +100,4 @@
 - [Automattic](https://github.com/Automattic)
 - [Bootstrap](https://github.com/twbs)
 - [swagger-api](https://github.com/swagger-api)
+- [yahoo](https://github.com/yahoo)
