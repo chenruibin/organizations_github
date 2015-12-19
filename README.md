@@ -95,3 +95,4 @@
 - [开放静态文件 CDN](https://github.com/staticfile)
 - [Wifi.io](https://github.com/wifi-io)
 - [Parse](https://github.com/ParsePlatform)
+- [Amazon Web Services - Labs](https://github.com/awslabs)
