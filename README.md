@@ -103,3 +103,4 @@
 - [yahoo](https://github.com/yahoo)
 - [spring-projects](https://github.com/spring-projects)
 - [docker](https://github.com/docker)
+- [SeleniumHQ](https://github.com/SeleniumHQ)
