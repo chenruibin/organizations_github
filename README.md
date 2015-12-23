@@ -106,3 +106,4 @@
 - [SeleniumHQ](https://github.com/SeleniumHQ)
 - [Taobao FED](https://github.com/taobaofed)
 - [jayway](https://github.com/jayway)
+- [Harness the power of Xcode from the comfort of your favorite browser.](https://github.com/useringo)
