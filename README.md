@@ -112,3 +112,4 @@
 - [wandoulabs](https://github.com/wandoulabs)
 - [lektor](https://github.com/lektor)
 - [usablica](https://github.com/usablica)
+- [aurajs](https://github.com/aurajs)
