@@ -114,3 +114,4 @@
 - [usablica](https://github.com/usablica)
 - [aurajs](https://github.com/aurajs)
 - [SonarSource](https://github.com/SonarSource)
+- [checkstyle](https://github.com/checkstyle)
