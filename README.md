@@ -110,3 +110,4 @@
 - [Baidu FEX team](https://github.com/fex-team/)
 - [DataSketches](https://github.com/DataSketches)
 - [wandoulabs](https://github.com/wandoulabs)
+- [lektor](https://github.com/lektor)
