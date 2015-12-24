@@ -111,3 +111,4 @@
 - [DataSketches](https://github.com/DataSketches)
 - [wandoulabs](https://github.com/wandoulabs)
 - [lektor](https://github.com/lektor)
+- [usablica](https://github.com/usablica)
