@@ -119,3 +119,4 @@
 - [NativeScript](https://github.com/NativeScript)
 - [youtube](https://github.com/youtube)
 - [teambition](https://github.com/teambition)
+- [The Javascript Architectural Toolkit ](https://github.com/cujojs)
