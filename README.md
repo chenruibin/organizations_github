@@ -115,3 +115,4 @@
 - [aurajs](https://github.com/aurajs)
 - [SonarSource](https://github.com/SonarSource)
 - [checkstyle](https://github.com/checkstyle)
+- [tldr pages](https://github.com/tldr-pages)
