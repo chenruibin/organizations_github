@@ -116,3 +116,4 @@
 - [SonarSource](https://github.com/SonarSource)
 - [checkstyle](https://github.com/checkstyle)
 - [tldr pages](https://github.com/tldr-pages)
+- [NativeScript](https://github.com/NativeScript)
