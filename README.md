@@ -121,3 +121,4 @@
 - [teambition](https://github.com/teambition)
 - [The Javascript Architectural Toolkit ](https://github.com/cujojs)
 - [稀土](https://github.com/xitu)
+- [Homebrew](https://github.com/Homebrew)
