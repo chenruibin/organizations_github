@@ -123,3 +123,4 @@
 - [稀土](https://github.com/xitu)
 - [Homebrew](https://github.com/Homebrew)
 - [ant-tool](https://github.com/ant-tool)
+- [square](https://github.com/square)
