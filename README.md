@@ -131,3 +131,4 @@
 - [videojs](https://github.com/videojs)
 - [kriasoft](https://github.com/kriasoft)
 - [Kinto](https://github.com/Kinto)
+- [dekujs](https://github.com/dekujs)
