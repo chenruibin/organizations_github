@@ -127,3 +127,4 @@
 - [path](https://github.com/path)
 - [WeChat SDK 非官方开发组 - 让微信开发更简单](https://github.com/EasyWeChat)
 - [PMD](https://github.com/pmd)
+- [jshttp](https://github.com/jshttp)
