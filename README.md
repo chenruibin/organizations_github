@@ -130,3 +130,4 @@
 - [jshttp](https://github.com/jshttp)
 - [videojs](https://github.com/videojs)
 - [kriasoft](https://github.com/kriasoft)
+- [Kinto](https://github.com/Kinto)
