@@ -132,3 +132,4 @@
 - [kriasoft](https://github.com/kriasoft)
 - [Kinto](https://github.com/Kinto)
 - [dekujs](https://github.com/dekujs)
+- [Baidu EFE team](https://github.com/ecomfe)
