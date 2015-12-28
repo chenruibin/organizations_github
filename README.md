@@ -133,3 +133,4 @@
 - [Kinto](https://github.com/Kinto)
 - [dekujs](https://github.com/dekujs)
 - [Baidu EFE team](https://github.com/ecomfe)
+- [googlesamples](https://github.com/googlesamples)
