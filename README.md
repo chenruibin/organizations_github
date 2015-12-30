@@ -139,3 +139,4 @@
 - [大众点评网](https://github.com/dianping)
 - [openresty](https://github.com/openresty)
 - [fontforge](https://github.com/fontforge)
+- [DefinitelyTyped](https://github.com/DefinitelyTyped)
