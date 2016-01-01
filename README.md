@@ -144,3 +144,4 @@
 - [Samsung](https://github.com/Samsung)
 - [vuejs-templates](https://github.com/vuejs-templates)
 - [workshopper](https://github.com/workshopper)
+- [七牛云存储](https://github.com/qiniu)
