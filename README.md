@@ -149,3 +149,5 @@
 - [webpack](https://github.com/webpack)
 - [WhiteHouse](https://github.com/WhiteHouse)
 - [arduino](https://github.com/arduino)
+- [nodejitsu](https://github.com/nodejitsu)
+- [TripIt](https://www.tripit.com/)
