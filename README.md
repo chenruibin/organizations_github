@@ -157,3 +157,4 @@
 - [trailsjs](https://github.com/trailsjs)
 - [kissyteam](https://github.com/kissyteam)
 - [RestKit](https://github.com/RestKit)
+- [learn-javascript-courses](https://github.com/learn-javascript-courses)
