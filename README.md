@@ -155,3 +155,4 @@
 - [VerbalExpressions](https://github.com/VerbalExpressions)
 - [git](https://github.com/git)
 - [trailsjs](https://github.com/trailsjs)
+- [kissyteam](https://github.com/kissyteam)
