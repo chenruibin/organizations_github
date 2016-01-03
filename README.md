@@ -151,3 +151,4 @@
 - [arduino](https://github.com/arduino)
 - [nodejitsu](https://github.com/nodejitsu)
 - [TripIt](https://www.tripit.com/)
+- [36Kr](https://github.com/36Kr-Mobile)
