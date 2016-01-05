@@ -171,3 +171,4 @@
 - [sphinxsearch](https://github.com/sphinxsearch)
 - [reborndb](https://github.com/reborndb)
 - [Uber](https://github.com/Uber)
+- [basho](https://github.com/basho)
