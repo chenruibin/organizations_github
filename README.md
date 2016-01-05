@@ -168,3 +168,4 @@
 - [pagekit](https://github.com/pagekit)
 - [atom](https://github.com/atom)
 - [micro](https://github.com/micro)
+- [sphinxsearch](https://github.com/sphinxsearch)
