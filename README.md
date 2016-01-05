@@ -164,3 +164,4 @@
 - [capistrano](https://github.com/capistrano)
 - [coodict](https://github.com/coodict)
 - [searchkit](https://github.com/searchkit)
+- [rabbitmq](https://github.com/rabbitmq)
