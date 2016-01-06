@@ -178,3 +178,4 @@
 - [movielala](https://github.com/movielala)
 - [ngbp](https://github.com/ngbp)
 - [git-up](https://github.com/git-up)
+- [prometheus](https://github.com/prometheus)
