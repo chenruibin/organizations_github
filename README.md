@@ -188,3 +188,4 @@
 - [weaveworks](https://github.com/weaveworks)
 - [51reboot](https://github.com/51reboot)
 - [mongodb](https://github.com/mongodb)
+- [pydata](https://github.com/pydata)
