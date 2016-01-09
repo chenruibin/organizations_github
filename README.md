@@ -195,3 +195,4 @@
 - [node-inspector](https://github.com/node-inspector)
 - [getsentry ](https://github.com/getsentry)
 - [hashicorp](https://github.com/hashicorp)
+- [kubernetes](https://github.com/kubernetes)
