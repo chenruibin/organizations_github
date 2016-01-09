@@ -192,3 +192,4 @@
 - [pentaho](https://github.com/pentaho)
 - [graphite-project](https://github.com/graphite-project/)
 - [reviewboard](https://github.com/reviewboard)
+- [node-inspector](https://github.com/node-inspector)
