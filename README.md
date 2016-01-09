@@ -193,3 +193,4 @@
 - [graphite-project](https://github.com/graphite-project/)
 - [reviewboard](https://github.com/reviewboard)
 - [node-inspector](https://github.com/node-inspector)
+- [getsentry](https://github.com/getsentry)
