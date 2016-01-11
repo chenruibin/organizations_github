@@ -199,3 +199,4 @@
 - [spring-cloud](https://github.com/spring-cloud)
 - [muicss](https://github.com/muicss)
 - [@Conf 团队，做开发者自己的技术大会](https://github.com/atConf)
+- [foreverjs](https://github.com/foreverjs)
