@@ -204,3 +204,4 @@
 - [saltstack](https://github.com/saltstack)
 - [falconry](https://github.com/falconry)
 - [Icinga](https://github.com/Icinga)
+- [shower](https://github.com/shower)
