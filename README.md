@@ -210,3 +210,4 @@
 - [dangdang](https://github.com/dangdangdotcom)
 - [Yelp](https://github.com/Yelp)
 - [Microsoft](https://github.com/Microsoft)
+- [SekoiaLab](https://github.com/SekoiaLab)
