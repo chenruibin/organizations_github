@@ -211,3 +211,4 @@
 - [Yelp](https://github.com/Yelp)
 - [Microsoft](https://github.com/Microsoft)
 - [SekoiaLab](https://github.com/SekoiaLab)
+- [halfdogstudio](https://github.com/halfdogstudio)
