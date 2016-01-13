@@ -221,3 +221,4 @@
 - [ctripcorp](https://github.com/ctripcorp)
 - [zeromq](https://github.com/zeromq)
 - [nanomsg](https://github.com/nanomsg)
+- [meteorhacks](https://github.com/meteorhacks)
