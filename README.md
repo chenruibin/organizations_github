@@ -228,3 +228,5 @@
 - [amazeui](https://github.com/amazeui)
 - [liulangnan](https://github.com/liulangnan)
 - [handuyishe](https://github.com/handuyishe)
+- [ganglia](https://github.com/ganglia)
+- [NLPchina](https://github.com/NLPchina)
