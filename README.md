@@ -218,3 +218,4 @@
 - [mesosphere](https://github.com/mesosphere)
 - [shimohq](https://github.com/shimohq)
 - [tripit](https://github.com/tripit)
+- [ctripcorp](https://github.com/ctripcorp)
