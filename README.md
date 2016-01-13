@@ -220,3 +220,4 @@
 - [tripit](https://github.com/tripit)
 - [ctripcorp](https://github.com/ctripcorp)
 - [zeromq](https://github.com/zeromq)
+- [nanomsg](https://github.com/nanomsg)
