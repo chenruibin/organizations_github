@@ -231,3 +231,4 @@
 - [ganglia](https://github.com/ganglia)
 - [NLPchina](https://github.com/NLPchina)
 - [ceph](https://github.com/ceph)
+- [wequick](https://github.com/wequick)
