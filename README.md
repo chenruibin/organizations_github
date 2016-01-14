@@ -250,3 +250,4 @@
 - [SuperID](https://github.com/SuperID)
 - [cheeriojs](https://github.com/cheeriojs)
 - [平等、自由、奔放的开源社区b3log](https://github.com/b3log)
+- [Khan Academy](https://github.com/Khan)
