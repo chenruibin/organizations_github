@@ -234,3 +234,4 @@
 - [wequick](https://github.com/wequick)
 - [grafana](https://github.com/grafana)
 - [OpenTSDB](https://github.com/OpenTSDB)
+- [thoughtbot](https://github.com/thoughtbot)
