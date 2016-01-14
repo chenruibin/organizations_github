@@ -244,3 +244,5 @@
 - [openzipkin](https://github.com/openzipkin)
 - [SequoiaDB](https://github.com/SequoiaDB)
 - [igniterealtime](https://github.com/igniterealtime)
+- [netty](https://github.com/netty)
+- [palomajs](https://github.com/palomajs)
