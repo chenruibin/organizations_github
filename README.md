@@ -236,3 +236,4 @@
 - [OpenTSDB](https://github.com/OpenTSDB)
 - [thoughtbot](https://github.com/thoughtbot)
 - [druid-io](https://github.com/druid-io)
+- [implydata](https://github.com/implydata)
