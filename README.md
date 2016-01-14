@@ -248,3 +248,4 @@
 - [palomajs](https://github.com/palomajs)
 - [jsconfcn](https://github.com/jsconfcn)
 - [SuperID](https://github.com/SuperID)
+- [cheeriojs](https://github.com/cheeriojs)
