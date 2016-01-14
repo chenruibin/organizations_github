@@ -239,3 +239,4 @@
 - [implydata](https://github.com/implydata)
 - [linkedin](https://github.com/linkedin)
 - [logful](https://github.com/logful)
+- [beeblio](https://github.com/beeblio)
