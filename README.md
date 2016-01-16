@@ -251,3 +251,4 @@
 - [cheeriojs](https://github.com/cheeriojs)
 - [平等、自由、奔放的开源社区b3log](https://github.com/b3log)
 - [Khan Academy](https://github.com/Khan)
+- [做中国最好的JS相关的Node SDK/Node代码库](https://github.com/JSSDKCN)
