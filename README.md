@@ -258,3 +258,4 @@
 - [RocketChat](https://github.com/RocketChat)
 - [eBay](https://github.com/eBay)
 - [hackmdio](https://github.com/hackmdio)
+- [Huawei Openlab](https://github.com/huawei-openlab)
