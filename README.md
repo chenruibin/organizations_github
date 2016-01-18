@@ -262,3 +262,4 @@
 - [grpc](https://github.com/grpc)
 - [processone](https://github.com/processone)
 - [realm](https://github.com/realm)
+- [baidu](https://github.com/baidu)
