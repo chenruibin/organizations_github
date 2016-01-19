@@ -267,3 +267,4 @@
 - [scikit-learn](https://github.com/scikit-learn)
 - [tensorflow](https://github.com/tensorflow)
 - [torch](https://github.com/torch)
+- [shogun-toolbox](https://github.com/shogun-toolbox)
