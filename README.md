@@ -273,3 +273,4 @@
 - [cloudera](https://github.com/cloudera)
 - [baidu-research](https://github.com/baidu-research)
 - [angular](https://github.com/angular)
+- [lambdacloud](https://github.com/lambdacloud)
