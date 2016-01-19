@@ -264,3 +264,4 @@
 - [realm](https://github.com/realm)
 - [baidu](https://github.com/baidu)
 - [scrapy](https://github.com/scrapy)
+- [scikit-learn](https://github.com/scikit-learn)
