@@ -271,3 +271,4 @@
 - [accord-net](https://github.com/accord-net)
 - [h2oai](https://github.com/h2oai)
 - [cloudera](https://github.com/cloudera)
+- [baidu-research](https://github.com/baidu-research)
