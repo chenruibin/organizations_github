@@ -272,3 +272,4 @@
 - [h2oai](https://github.com/h2oai)
 - [cloudera](https://github.com/cloudera)
 - [baidu-research](https://github.com/baidu-research)
+- [angular](https://github.com/angular)
