@@ -268,3 +268,4 @@
 - [tensorflow](https://github.com/tensorflow)
 - [torch](https://github.com/torch)
 - [shogun-toolbox](https://github.com/shogun-toolbox)
+- [accord-net](https://github.com/accord-net)
