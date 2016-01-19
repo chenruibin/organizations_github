@@ -270,3 +270,4 @@
 - [shogun-toolbox](https://github.com/shogun-toolbox)
 - [accord-net](https://github.com/accord-net)
 - [h2oai](https://github.com/h2oai)
+- [cloudera](https://github.com/cloudera)
