@@ -279,3 +279,4 @@
 - [CosmicMind](https://github.com/CosmicMind)
 - [FolioReader](https://github.com/FolioReader)
 - [json-schema](https://github.com/json-schema)
+- [Jam3](https://github.com/Jam3)
