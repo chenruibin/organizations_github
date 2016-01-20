@@ -276,3 +276,4 @@
 - [lambdacloud](https://github.com/lambdacloud)
 - [aliyun-node](https://github.com/aliyun-node)
 - [zero-db](https://github.com/zero-db)
+- [CosmicMind](https://github.com/CosmicMind)
