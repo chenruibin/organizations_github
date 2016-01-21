@@ -284,3 +284,4 @@
 - [fastos](https://github.com/fastos)
 - [arduino](https://github.com/arduino/)
 - [BVLC](https://github.com/BVLC)
+- [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)
