@@ -287,3 +287,4 @@
 - [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)
 - [Laboratoire d’Informatique des Systèmes Adaptatifs
 ](https://github.com/lisa-lab)
+- [pingcap](https://github.com/pingcap)
