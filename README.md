@@ -289,3 +289,4 @@
 ](https://github.com/lisa-lab)
 - [pingcap](https://github.com/pingcap)
 - [power-assert-js](https://github.com/power-assert-js)
+- [socketio](https://github.com/socketio)
