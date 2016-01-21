@@ -291,3 +291,4 @@
 - [power-assert-js](https://github.com/power-assert-js)
 - [socketio](https://github.com/socketio)
 - [AF83](https://github.com/AF83)
+- [ReSwift](https://github.com/ReSwift)
