@@ -293,3 +293,4 @@
 - [AF83](https://github.com/AF83)
 - [ReSwift](https://github.com/ReSwift)
 - [Animatious 一起动画开源组](https://github.com/Animatious)
+- [hybridgroup](https://github.com/hybridgroup)
