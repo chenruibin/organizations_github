@@ -301,3 +301,4 @@
 - [brave](https://github.com/brave)
 - [mqttjs](https://github.com/mqttjs)
 - [rails](https://github.com/rails)
+- [aws](https://github.com/aws)
