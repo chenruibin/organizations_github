@@ -303,3 +303,4 @@
 - [rails](https://github.com/rails)
 - [aws](https://github.com/aws)
 - [tinymce](https://github.com/tinymce)
+- [shinobicontrols](https://github.com/shinobicontrols)
