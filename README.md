@@ -310,3 +310,4 @@
 - [jekyll](https://github.com/jekyll)
 - [gollum](https://github.com/gollum)
 - [ajaxorg](https://github.com/ajaxorg)
+- [zeroclipboard](https://github.com/zeroclipboard)
