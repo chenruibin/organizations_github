@@ -308,3 +308,4 @@
 - [AMPLab at UC Berkeley](https://github.com/amplab)
 - [libgit2](https://github.com/libgit2)
 - [jekyll](https://github.com/jekyll)
+- [gollum](https://github.com/gollum)
