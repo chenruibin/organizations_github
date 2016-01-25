@@ -311,3 +311,4 @@
 - [gollum](https://github.com/gollum)
 - [ajaxorg](https://github.com/ajaxorg)
 - [zeroclipboard](https://github.com/zeroclipboard)
+- [spotify](https://github.com/spotify)
