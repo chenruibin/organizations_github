@@ -305,3 +305,4 @@
 - [tinymce](https://github.com/tinymce)
 - [shinobicontrols](https://github.com/shinobicontrols)
 - [lyft](https://github.com/lyft)
+- [AMPLab at UC Berkeley](https://github.com/amplab)
