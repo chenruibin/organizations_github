@@ -315,3 +315,4 @@
 - [twitterdev](https://github.com/twitterdev)
 - [rust-lang](https://github.com/rust-lang)
 - [AsyncHttpClient](https://github.com/AsyncHttpClient)
+- [DeepLearningKit](https://github.com/DeepLearningKit)
