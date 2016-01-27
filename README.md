@@ -314,3 +314,4 @@
 - [spotify](https://github.com/spotify)
 - [twitterdev](https://github.com/twitterdev)
 - [rust-lang](https://github.com/rust-lang)
+- [AsyncHttpClient](https://github.com/AsyncHttpClient)
