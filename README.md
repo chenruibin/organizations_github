@@ -320,3 +320,4 @@
 - [variety](https://github.com/variety)
 - [Medium](https://github.com/Medium)
 - [mongodb-partners](https://github.com/mongodb-partners)
+- [VoltDB](https://github.com/VoltDB)
