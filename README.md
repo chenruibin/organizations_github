@@ -330,3 +330,4 @@
 - [wercker](https://github.com/wercker)
 - [observing](https://github.com/observing)
 - [cocos2d](https://github.com/cocos2d)
+- [cockroachdb](https://github.com/cockroachdb)
