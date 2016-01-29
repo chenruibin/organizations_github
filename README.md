@@ -324,3 +324,4 @@
 - [androidflux](https://github.com/androidflux)
 - [visionect](https://github.com/visionect)
 - [yabwe](https://github.com/yabwe)
+- [seajs](https://github.com/seajs)
