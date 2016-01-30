@@ -331,3 +331,4 @@
 - [observing](https://github.com/observing)
 - [cocos2d](https://github.com/cocos2d)
 - [cockroachdb](https://github.com/cockroachdb)
+- [adjust](https://github.com/adjust)
