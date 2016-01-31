@@ -332,3 +332,4 @@
 - [cocos2d](https://github.com/cocos2d)
 - [cockroachdb](https://github.com/cockroachdb)
 - [adjust](https://github.com/adjust)
+- [baifendian](https://github.com/baifendian)
