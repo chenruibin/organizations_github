@@ -333,3 +333,4 @@
 - [cockroachdb](https://github.com/cockroachdb)
 - [adjust](https://github.com/adjust)
 - [baifendian](https://github.com/baifendian)
+- [shipitjs](https://github.com/shipitjs)
