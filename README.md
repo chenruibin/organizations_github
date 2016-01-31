@@ -334,3 +334,4 @@
 - [adjust](https://github.com/adjust)
 - [baifendian](https://github.com/baifendian)
 - [shipitjs](https://github.com/shipitjs)
+- [snap-ci](https://github.com/snap-ci)
