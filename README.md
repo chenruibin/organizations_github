@@ -335,3 +335,4 @@
 - [baifendian](https://github.com/baifendian)
 - [shipitjs](https://github.com/shipitjs)
 - [snap-ci](https://github.com/snap-ci)
+- [jacoco](https://github.com/jacoco)
