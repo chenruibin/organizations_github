@@ -339,3 +339,5 @@
 - [ireaderlab](https://github.com/ireaderlab)
 - [servo](https://github.com/servo)
 - [WhitestormJS](https://github.com/WhitestormJS)
+- [NYTimes](https://github.com/NYTimes)
+- [cobbler](https://github.com/cobbler)
