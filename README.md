@@ -338,3 +338,4 @@
 - [jacoco](https://github.com/jacoco)
 - [ireaderlab](https://github.com/ireaderlab)
 - [servo](https://github.com/servo)
+- [WhitestormJS](https://github.com/WhitestormJS)
