@@ -342,3 +342,4 @@
 - [NYTimes](https://github.com/NYTimes)
 - [cobbler](https://github.com/cobbler)
 - [Pipend](https://github.com/Pipend)
+- [ChromeDevTools](https://github.com/ChromeDevTools)
