@@ -347,3 +347,4 @@
 - [keybase](https://github.com/keybase)
 - [postcss](https://github.com/postcss)
 - [handsontable](https://github.com/handsontable)
+- [shelljs](https://github.com/shelljs)
