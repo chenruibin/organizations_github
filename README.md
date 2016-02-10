@@ -351,3 +351,4 @@
 - [wakatime](https://github.com/wakatime)
 - [powerline](https://github.com/powerline)
 - [Mashape](https://github.com/Mashape)
+- [electronicarts](https://github.com/electronicarts)
