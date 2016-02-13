@@ -355,3 +355,4 @@
 - [SocketCluster](https://github.com/SocketCluster)
 - [orchardup](https://github.com/orchardup)
 - [Ramotion](https://github.com/Ramotion)
+- [koreader](https://github.com/koreader)
