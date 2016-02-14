@@ -356,3 +356,4 @@
 - [orchardup](https://github.com/orchardup)
 - [Ramotion](https://github.com/Ramotion)
 - [koreader](https://github.com/koreader)
+- [vert-x3](https://github.com/vert-x3)
