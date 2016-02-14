@@ -359,3 +359,4 @@
 - [vert-x3](https://github.com/vert-x3)
 - [gwpy](https://github.com/gwpy)
 - [mailchimp](https://github.com/mailchimp)
+- [playframework](https://github.com/playframework)
