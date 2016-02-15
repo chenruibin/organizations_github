@@ -360,3 +360,4 @@
 - [gwpy](https://github.com/gwpy)
 - [mailchimp](https://github.com/mailchimp)
 - [playframework](https://github.com/playframework)
+- [beecloud](https://github.com/beecloud)
