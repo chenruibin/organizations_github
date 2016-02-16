@@ -362,3 +362,4 @@
 - [playframework](https://github.com/playframework)
 - [beecloud](https://github.com/beecloud)
 - [dato-code](https://github.com/dato-code)
+- [HospitalRun](https://github.com/HospitalRun)
