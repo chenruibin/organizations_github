@@ -361,3 +361,4 @@
 - [mailchimp](https://github.com/mailchimp)
 - [playframework](https://github.com/playframework)
 - [beecloud](https://github.com/beecloud)
+- [dato-code](https://github.com/dato-code)
