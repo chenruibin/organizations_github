@@ -365,3 +365,4 @@
 - [HospitalRun](https://github.com/HospitalRun)
 - [reactjs](https://github.com/reactjs)
 - [vr-collab](https://github.com/vr-collab)
+- [vr-components](https://github.com/vr-components)
