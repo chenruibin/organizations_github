@@ -371,3 +371,4 @@
 - [playcanvas](https://github.com/playcanvas)
 - [neovim](https://github.com/neovim)
 - [react-guide](https://github.com/react-guide)
+- [Weibo Tech Team Open Source Projects](https://github.com/weibocom)
